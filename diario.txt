@@ -1,0 +1,17 @@
+20171010
+repaso de operacones de git
+-Configuracion inicial:
+git config --global user.name psaez9
+git cofnig --global user.email 1dam.psaez@institutoserpis.org
+git config --global push.default=simple
+
+
+-clonado:
+git clone https:github.com/psaez9/ed.git
+
+-nueva version:
+git add diario.txt (marca el fichero diario.txt)
+git commit -m "Resumen de la version" (incluye los marcados
+
+-publicacion en remoto:
+git push
